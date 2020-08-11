@@ -34,6 +34,8 @@
 
 [<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />](https://ubuntu.com/)
 
+<br>
+<br>
 ### Stats:
 
 <img align="left" alt="AgentT30's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=agentt30&show_icons=true&hide_border=true" />
