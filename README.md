@@ -2,9 +2,9 @@
 
 ## I'm a computer science engineering student, find me [here](https://linkedin.com/in/chaitanya-thekkunja-aa0ba8195/) 😎
 
--   I'm Currently learning Python and Web Development.
--   Next target is React JS and Flutter.
--   I love to play video games on my free time.
+-   👨‍💻 I'm currently learning Python and Web Development.
+-   🎯 Next target is React JS and Flutter.
+-   🎮 I love to play video games on my free time.
 
 ### Languages and Tools:
 
@@ -34,6 +34,6 @@
 
 [<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />](https://ubuntu.com/)
 
----
+### Stats:
 
 <img align="left" alt="AgentT30's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=agentt30&show_icons=true&hide_border=true" />
