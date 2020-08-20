@@ -50,4 +50,4 @@
 
 ### Stats:
 
-<img align="left" alt="AgentT30's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=agentt30&show_icons=true&hide_border=true" />
+<img align="left" alt="AgentT30's Github Stats" src="https://github-readme-stats.agentt30.vercel.app/api?username=agentt30&show_icons=true&hide_border=true" />
