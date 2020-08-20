@@ -5,6 +5,7 @@
 -   👨‍💻 I'm currently learning Python and Web Development.
 -   🎯 Next target is React JS and Flutter.
 -   🎮 I love to play video games on my free time.
+-   🍓 Fun Fact: Strawberries are not actually berries.
 
 ### Languages and Tools:
 
@@ -47,6 +48,8 @@
 ### Projects:
 
 -   [Weather App using React](https://agentt30.github.io/weather-app/)
+-   [JDBC Project] (https://github.com/AgentT30/Computer-Sales-and-Service-Management-System)
+-   [BloodBank Website (Internship Project)] (https://github.com/AgentT30/Internship-project)
 
 ### Stats:
 
