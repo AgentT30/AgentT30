@@ -48,8 +48,8 @@
 ### Projects:
 
 -   [Weather App using React](https://agentt30.github.io/weather-app/)
--   [JDBC Project] (https://github.com/AgentT30/Computer-Sales-and-Service-Management-System)
--   [BloodBank Website (Internship Project)] (https://github.com/AgentT30/Internship-project)
+-   [JDBC Project](https://github.com/AgentT30/Computer-Sales-and-Service-Management-System)
+-   [BloodBank Website (Internship Project)](https://github.com/AgentT30/Internship-project)
 
 ### Stats:
 
