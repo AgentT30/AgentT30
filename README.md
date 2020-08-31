@@ -47,10 +47,12 @@
 
 ### Projects:
 
--   [Simple Live Clock using React](https://agentt30.github.io/simple-clock-react/)
--   [Weather App using React](https://agentt30.github.io/weather-app/)
+-   [Simple Live Clock Using React](https://agentt30.github.io/simple-clock-react/)
+-   [Weather App Using React](https://agentt30.github.io/weather-app/)
+-   [Todo App Using React](https://agentt30.github.io/todo-list-react/)
 -   [JDBC Project](https://github.com/AgentT30/Computer-Sales-and-Service-Management-System)
 -   [BloodBank Website (Internship Project)](https://github.com/AgentT30/Internship-project)
+
 
 ### Stats:
 
