@@ -57,3 +57,5 @@
 ### Stats:
 
 <img align="left" alt="AgentT30's Github Stats" src="https://github-readme-stats-git-master.agentt30.vercel.app/api?username=agentt30&show_icons=true&hide_border=true" />
+
+######  Profile Picture Credit goes to [SrGrafo](https://www.reddit.com/user/SrGrafo/)
