@@ -3,7 +3,7 @@
 ## I'm a computer science engineering student, find me [here](https://linkedin.com/in/chaitanya-thekkunja-aa0ba8195/) 😎
 
 -   👨‍💻 I'm currently learning Python and Web Development.
--   🎯 Next target is React JS and Flutter.
+-   🎯 Next target is React.
 -   🎮 I love to play video games on my free time.
 -   🍓 Fun Fact: Strawberries are not actually berries.
 
