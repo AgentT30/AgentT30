@@ -51,7 +51,7 @@
 -   [Weather App Using React](https://agentt30.github.io/weather-app/)
 -   [Todo App Using React](https://agentt30.github.io/todo-list-react/)
 -   [JDBC Project](https://github.com/AgentT30/Computer-Sales-and-Service-Management-System)
--   [BloodBank Website (Internship Project)](https://github.com/AgentT30/Internship-project)
+-   [BloodBank Website (Internship Project)](https://agentt30.github.io/Internship-project/)
 
 
 ### Stats:
