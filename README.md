@@ -1,13 +1,12 @@
 # Hi there, Welcome to my GitHub 🙋‍♂️
 
-## I'm a computer science engineering student, find me [here](https://linkedin.com/in/chaitanya-thekkunja-aa0ba8195/) 😎
+## I'm a computer science engineer, find me [here](https://linkedin.com/in/chaitanya-thekkunja-aa0ba8195/) 😎
 
--   👨‍💻 I'm currently learning Python and Web Development.
--   🎯 Next target is React.
--   🎮 I love to play video games on my free time.
--   🍓 Fun Fact: Strawberries are not actually berries.
+-   👨‍💻 Currently working at [Unicourt](https://unicourt.com/) as a software engineer.
+-   🎯 Interested in JS frameworks, mainly React.
+-   🎮 Love to play video games in my free time.
 
-### Languages and Tools:
+### Languages and Tools familiar with:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
@@ -31,10 +30,6 @@
 
 [<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](https://www.php.net/)
 
-[<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
-
-[<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](<https://en.wikipedia.org/wiki/C_(programming_language)>)
-
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 
 [<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
@@ -43,7 +38,27 @@
 
 [<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />](https://ubuntu.com/)
 
+[<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
+
+[<img align="left" alt="docker" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Swagger-logo.png/150px-Swagger-logo.png" />](https://swagger.io/)
+
+[<img align="left" alt="docker" width="26px" src="https://wac-cdn.atlassian.com/dam/jcr:e0cedee5-a180-40ad-b7c3-a66d6e60f483/jira-app-adg3.svg?cdnVersion=1781" />](https://www.atlassian.com/software/jira)
+
 <br/>
+<br/>
+
+### Work Experience:
+
+Interned at [Unicourt](https://unicourt.com/) for 6 months as a CRM developer working with open source technologies like [EspoCRM](https://www.espocrm.com/) with PHP, MySQL and JS.
+
+Daily tasks involved:
+
+-   Understanding the business requirements from the sales team based in the US and developing the product accordingly.
+-   Designing and developing RESTful APIs to send and receive data from our application.
+-   Integrating with third party entities for smoother business operations and automation.
+-   Peer reviewing code.
+-   Working with other developers and testers in an agile methodology of software development.
+-   Reporting regular progress to the project manager and other concerned superiors.
 
 ### Projects:
 
@@ -51,8 +66,7 @@
 -   [Weather App Using React](https://agentt30.github.io/weather-app/)
 -   [Todo App Using React](https://agentt30.github.io/todo-list-react/)
 -   [JDBC Project](https://github.com/AgentT30/Computer-Sales-and-Service-Management-System)
--   [BloodBank Website (Internship Project)](https://agentt30.github.io/Internship-project/)
-
+-   [BloodBank Website](https://agentt30.github.io/Internship-project/)
 
 ### Stats:
 
@@ -68,4 +82,4 @@
 <br />
 <br />
 
-######  Profile Picture Credit goes to [SrGrafo](https://www.reddit.com/user/SrGrafo/)
+###### Profile Picture Credit goes to [SrGrafo](https://www.reddit.com/user/SrGrafo/)
