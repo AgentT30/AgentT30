@@ -1,10 +1,11 @@
 # Hi there, Welcome to my GitHub 🙋‍♂️
 
-## I'm a computer science engineer, find me [here](https://linkedin.com/in/chaitanya-thekkunja-aa0ba8195/) 😎
+## I'm a software engineer, find me [here](https://linkedin.com/in/chaitanya-thekkunja-aa0ba8195/) 😎
 
 -   👨‍💻 Currently working at [Unicourt](https://unicourt.com/) as a software engineer.
--   🎯 Interested in JS frameworks, mainly React.
--   🎮 Love to play video games in my free time.
+-   🎯 Interested in JS.
+-   🎮 I like playing video games in my free time.
+-   🏍️ Also enjoy riding motorcycles on the weekends.
 
 ### Languages and Tools familiar with:
 
@@ -68,18 +69,5 @@ Daily tasks involved:
 -   [JDBC Project](https://github.com/AgentT30/Computer-Sales-and-Service-Management-System)
 -   [BloodBank Website](https://agentt30.github.io/Internship-project/)
 
-### Stats:
-
-<img align="left" alt="AgentT30's Github Stats" src="https://github-readme-stats-git-master.agentt30.vercel.app/api?username=agentt30&show_icons=true&hide_border=true" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ###### Profile Picture Credit goes to [SrGrafo](https://www.reddit.com/user/SrGrafo/)
