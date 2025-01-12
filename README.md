@@ -1,16 +1,7 @@
 # Hi there, Welcome to my GitHub 🙋‍♂️
 
-<<<<<<< HEAD
 ## I'm a senior software engineer at [Unicourt](https://unicourt.com/), find me [here](https://www.linkedin.com/in/chaitanya-thekkunja/) 😎
 
-=======
-## I'm a software engineer, find me [here](https://linkedin.com/in/chaitanya-thekkunja-aa0ba8195/) 😎
-
--   👨‍💻 Currently working at [Unicourt](https://unicourt.com/) as a software engineer.
--   🎯 Interested in JS.
--   🎮 I like playing video games in my free time.
--   🏍️ Also enjoy riding motorcycles on the weekends.
->>>>>>> 5ecf51c807b2864bd327b2f2915e1af7b8e5543c
 
 ### Languages and Tools familiar with:
 
