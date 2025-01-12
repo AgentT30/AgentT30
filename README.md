@@ -84,14 +84,4 @@ features during internship period.
 -   [BloodBank Website](https://agentt30.github.io/Internship-project/)
 
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 ###### Profile Picture Credit goes to [SrGrafo](https://www.reddit.com/user/SrGrafo/)
